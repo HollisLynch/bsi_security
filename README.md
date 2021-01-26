@@ -5,3 +5,5 @@ Authors:
     Dmytro Yurchenko
 
     Daryna Kovyrina
+    
+Wybrana aplikacja:    
