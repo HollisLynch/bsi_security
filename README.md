@@ -40,7 +40,8 @@ Wybrane narzedzia do testowania:
     Bandit - is a comprehensive source vulnerability scanner for Python, SAST
     Nikto - DAST
 
-###Bandit
+### Bandit
+
 ![alt text](https://github.com/HollisLynch/bsi_security/blob/main/lab13-images/Знімок%20екрана%202021-02-08%20о%2007.41.29.png?raw=true)
 ![alt text](https://github.com/HollisLynch/bsi_security/blob/main/lab13-images/Знімок%20екрана%202021-02-08%20о%2007.42.03.png?raw=true)
 ![alt text](https://github.com/HollisLynch/bsi_security/blob/main/lab13-images/Знімок%20екрана%202021-02-08%20о%2007.42.21.png?raw=true)
